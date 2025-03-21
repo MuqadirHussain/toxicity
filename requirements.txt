@@ -3,3 +3,7 @@ shap
 streamlit 
 lime
 genai
+numpy
+pandas
+scikit-learn
+matplotlib
