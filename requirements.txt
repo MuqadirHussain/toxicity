@@ -1,5 +1,4 @@
 transformers
-shap
 streamlit 
 lime
 genai
